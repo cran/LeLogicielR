@@ -4,3 +4,8 @@
 Version 1.0 : Première version du package déposée sur le CRAN
 
 
+2012-03-19
+-----------
+
+Version 1.1: - J'ai enlevé les accents dans le fichier cor2.test.2.sample.Rd
+- J'ai modifié le fichier zzz.R

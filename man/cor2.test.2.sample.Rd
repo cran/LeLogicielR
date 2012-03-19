@@ -29,12 +29,9 @@ Lafaye de Micheaux Pierre <lafaye@dms.umontreal.ca>, Remy Drouilhet <Remy.Drouil
 \examples{
 data(IMC.ENFANT)
 attach(IMC.ENFANT)
-indf <- which(SEXE=="F")  # Permet de récupérer les
-                           # indices des filles.
-indg <- which(SEXE=="G") # Permet de récupérer les
-                           # indices des garçons.
-cor2.test.2.sample(taille[indf],poids[indf],
-                   taille[indg],poids[indg])
+indf <- which(SEXE=="F")  # Permet de recuperer les indices des filles.
+indg <- which(SEXE=="G")  # Permet de recuperer les indices des garcons.
+cor2.test.2.sample(taille[indf],poids[indf],taille[indg],poids[indg])
 detach(IMC.ENFANT)
 }
 

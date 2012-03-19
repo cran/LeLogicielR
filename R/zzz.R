@@ -2,9 +2,9 @@
 
   library.dynam("LeLogicielR", pkg, lib)
   x <- read.dcf(file = system.file("DESCRIPTION", package = "LeLogicielR"))
-  cat("\n")
+  packageStartupMessage("\n")
   write.dcf(x)
-  cat("\n")
+  packageStartupMessage("\n")
   y <- system.file("cor.test.2.sample.R", package = "LeLogicielR")
   source(y)
 }
