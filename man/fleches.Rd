@@ -1,7 +1,7 @@
 \encoding{latin1}
 \name{fleches}
 \alias{fleches}
-\title{La fonction Fleches}
+\title{La fonction fleches}
 \description{Cette fonction permet d'ajouter une flèche sur les extrémités des axes d'un graphique}
 \usage{fleches(x = TRUE, y = TRUE)}
 \arguments{

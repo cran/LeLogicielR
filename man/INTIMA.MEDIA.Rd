@@ -2,7 +2,7 @@
 \name{INTIMA.MEDIA}
 \alias{INTIMA.MEDIA}
 \docType{data}
-\title{Épaisseur de l'intima-média}
+\title{Epaisseur de l'intima-media}
 \description{
 Ce jeu de données provient d'une étude épidémiologique
 traitée par une équipe de l'Institut de santé publique

@@ -2,7 +2,7 @@
 \name{INFARCTUS}
 \alias{INFARCTUS}
 \docType{data}
-\title{Étude sur l'infarctus du myocarde}
+\title{Etude sur l'infarctus du myocarde}
 \description{
 Ce jeu de données provient d'une étude épidémiologique
 traitée par une équipe de l'Institut de santé publique

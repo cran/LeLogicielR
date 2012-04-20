@@ -1,7 +1,7 @@
 \encoding{latin1}
 \name{cor0.test}
 \alias{cor0.test}
-\title{Test du coefficient de corrélation}
+\title{Test du coefficient de correlation}
 \description{Test du coefficient de corrélation entre deux variables quantitatives}
 \usage{cor0.test(x, y, rho0 = 0, alternative = c("two.sided", "less", "greater"))}
 \arguments{

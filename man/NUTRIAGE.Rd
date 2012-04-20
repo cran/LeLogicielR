@@ -2,7 +2,7 @@
 \name{NUTRIAGE}
 \alias{NUTRIAGE}
 \docType{data}
-\title{Alimentation chez des personnes âgées}
+\title{Alimentation chez des personnes agees}
 \description{
 Ce jeu de données provient d'une étude épidémiologique
 traitée par une équipe de l'Institut de santé publique

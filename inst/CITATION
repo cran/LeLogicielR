@@ -7,13 +7,13 @@ citEntry(entry="Book",
 	 as.person("Liquet, B.")),
 	 publisher = "Springer",
          year         = "2011",
-         note         = "Software: R Package, LeLogicielR, version 1.0",
+         note         = "Software: R Package, LeLogicielR, version 1.2",
          url          = "http://www.biostatisticien.eu/springeR/",
          
          textVersion = 
          paste("Lafaye De Micheaux, P. and Drouilhet, R. and Liquet, B. (2010)", 
                "Le logiciel R, Maitriser le langage, Effectuer des analyses statistiques",
                "Springer, 2010",
-              "(Software: R Package, LeLogicielR, version 1.0)"
+              "(Software: R Package, LeLogicielR, version 1.2)"
 	      )
 )
