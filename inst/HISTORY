@@ -17,3 +17,15 @@ Version 1.2:
 - J'ai modifié le fichier zzz.R pour régler des problèmes dans .onLoad()
 - J'ai enlevé les caractères non-ASCII des title des fichiers d'aide
 
+2018-05-10
+-----------
+
+Version 1.2.1: 
+- DESCRIPTION: modified my email address and name
+- I modified CITATION file
+- NAMESPACE: import(IndependenceTests) and also a few importFrom() entries and a few S3method() entries; I also modified the useDynLib() entry
+- camembert.Rd: added missing arguments
+- I added the two files VectorAddr.Rd et writeaddr.Rd
+- I modified the file getaddr.R
+- I added a file LeLogicielR_init.c
+- getaddr.c: I removed the entry void R_init_LeLogicielR(DllInfo *info)

@@ -20,7 +20,7 @@ LazyLoad: \tab yes\cr
 }
 }
 \author{
-Lafaye de Micheaux Pierre <lafaye@dms.umontreal.ca>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <benoit.liquet@isped.u-bordeaux2.fr>
+Lafaye de Micheaux Pierre <lafaye@unsw.edu.au>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <benoit.liquet@isped.u-bordeaux2.fr>
 }
 \references{Livre: Le logiciel R, Maitriser le langage, Effectuer des analyses statistiques}
 \keyword{package}

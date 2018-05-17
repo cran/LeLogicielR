@@ -4,12 +4,18 @@
 \title{Diagramme circulaire}
 \description{Cette fonction offre une variante de la fonction \code{pie}}
 \usage{
-camembert(x, col = NULL, family = "HersheyScript")
+camembert(x, col = NULL, cex = 0.7, family = "sans", family.main = "HersheyScript",
+          main = NULL, col.main = "black", cex.main = 0.5)
 }
 \arguments{
   \item{x}{variable qualitative}
   \item{col}{un vecteur de chaine de caractères pour la couleur de chaque modalité}
-  \item{family}{famille de polices pour le titre. Par défaut, la police utilisée est "HersheyScript".}
+  \item{cex}{taille des caractères pour le graphique}
+  \item{family}{famille de polices pour les éléments sur le camembert. Par défaut, la police utilisée est "sans".}
+  \item{family.main}{famille de polices pour le titre. Par défaut, la police utilisée est "HersheyScript".}
+  \item{main}{titre}
+  \item{col.main}{couleur du titre}
+  \item{cex.main}{taille des caractères pour le titre}
 }
 
 \value{Un graphique}
@@ -17,7 +23,7 @@ camembert(x, col = NULL, family = "HersheyScript")
 Chapitre 9 (Statistique descriptive) du livre: Le logiciel R, Maitriser le langage, Effectuer des analyses statistiques
 }
 \author{
-Lafaye de Micheaux Pierre <lafaye@dms.umontreal.ca>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <benoit.liquet@isped.u-bordeaux2.fr>
+Lafaye de Micheaux Pierre <lafaye@unsw.edu.au>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <benoit.liquet@isped.u-bordeaux2.fr>
 }
 \seealso{\code{\link{pie}}}
 \examples{

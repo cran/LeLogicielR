@@ -1,5 +1,16 @@
+useDynLib(LeLogicielR, .registration = TRUE)
 exportPattern("^[[:alpha:]]+")
 import(xtable)
 import(RColorBrewer)
 import(gdata)
+import(IndependenceTests)
+importFrom("grDevices", "rgb")
+importFrom("graphics", "abline", "arrows", "axis", "barplot", "box",
+           "legend", "par", "pie", "plot", "plot.new", "plot.window",
+           "points", "polygon", "segments", "text", "title")
+importFrom("stats", "cor", "lsfit", "pnorm")
+
+S3method(print, VectorAddr)
+S3method(update, VectorAddr)
+S3method(Ops, VectorAddr)
 

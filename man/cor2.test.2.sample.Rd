@@ -24,7 +24,7 @@ Retourne une liste contenant
 Chapitre 11 (Intervalles de confiance et tests d'hypothèses) du livre: Le logiciel R, Maitriser le langage, Effectuer des analyses statistiques
 }
 \author{
-Lafaye de Micheaux Pierre <lafaye@dms.umontreal.ca>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <benoit.liquet@isped.u-bordeaux2.fr>
+Lafaye de Micheaux Pierre <lafaye@unsw.edu.au>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <benoit.liquet@isped.u-bordeaux2.fr>
 }
 \examples{
 data(IMC.ENFANT)

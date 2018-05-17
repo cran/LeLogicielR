@@ -2,18 +2,18 @@ citHeader("Pour citer le package LeLogicielR dans vos publications, merci d'util
 
 citEntry(entry="Book",
          title = "Le logiciel R, Maitriser le langage, Effectuer des analyses statistiques",
-         author = personList(as.person("Lafaye de Micheaux, P."),
-	 as.person("Drouilhet, R."),
-	 as.person("Liquet, B.")),
+         author = personList(person(given = "Pierre", family = "Lafaye de Micheaux"),
+	 person(given = "Rémy", family = "Drouilhet"),
+	 person(given = "Benoît", family = "Liquet")),
 	 publisher = "Springer",
          year         = "2011",
-         note         = "Software: R Package, LeLogicielR, version 1.2",
+         note         = "Software: R Package, LeLogicielR, version 1.2.1",
          url          = "http://www.biostatisticien.eu/springeR/",
          
          textVersion = 
-         paste("Lafaye De Micheaux, P. and Drouilhet, R. and Liquet, B. (2010)", 
+         paste("Pierre Lafaye De Micheaux, and Rémy Drouilhet and Benoît Liquet (2011)", 
                "Le logiciel R, Maitriser le langage, Effectuer des analyses statistiques",
-               "Springer, 2010",
-              "(Software: R Package, LeLogicielR, version 1.2)"
+               "Springer, 2011",
+              "(Software: R Package, LeLogicielR, version 1.2.1)"
 	      )
 )

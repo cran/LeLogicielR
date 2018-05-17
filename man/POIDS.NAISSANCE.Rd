@@ -30,7 +30,7 @@ dans le Massachusetts pendant l'année 1986).
 }
 \source{\url{http://www.biostatisticien.eu/springeR/}}
 \author{
-Lafaye de Micheaux Pierre <lafaye@dms.umontreal.ca>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <benoit.liquet@isped.u-bordeaux2.fr>
+Lafaye de Micheaux Pierre <lafaye@unsw.edu.au>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <benoit.liquet@isped.u-bordeaux2.fr>
 }
 \examples{
 data(POIDS.NAISSANCE)
